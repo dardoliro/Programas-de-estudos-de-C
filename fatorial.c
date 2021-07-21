@@ -2,9 +2,9 @@
 
 int main() {
 
-    // Variáveis
-    int x;
-    long long int fatorial = 1;
+    /* Variáveis */
+    int x; /* Valor inserido pelo usuário */
+    long long int fatorial = 1; /* Resultado do fatorial */
     
     printf("CALCULADORA DE FATORIAL\n\nDigite o valor de X: "); /* Inicia o programa */
     scanf("%i", &x); /* Armazena o valor inserido pelo usuário no endereço de memória de X */
