@@ -2,7 +2,6 @@
 
 int main() {
 
-    /* Variáveis */
     int x; /* Valor inserido pelo usuário */
     long long int fatorial = 1; /* Resultado do fatorial */
     
